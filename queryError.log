@@ -1,0 +1,33 @@
+CVE-2017-9242
+cpe:2.3:o:linux:linux_kernel:4.9.96:*:*:*:*:*:*:*
+Closed
+
+CVE-2019-15117
+cpe:2.3:o:linux:linux_kernel:2.6.28:rc1:*:*:*:*:*:*
+Closed
+
+CVE-2018-1095
+cpe:2.3:o:linux:linux_kernel:3.18.28:*:*:*:*:*:*:*
+Closed
+
+CVE-2011-0716
+cpe:2.3:o:linux:linux_kernel:2.6.12.2:*:*:*:*:*:*:*
+Closed
+
+CVE-2019-19057
+cpe:2.3:o:linux:linux_kernel:4.20.9:*:*:*:*:*:*:*
+Closed
+
+CVE-2020-10942
+cpe:2.3:o:linux:linux_kernel:4.9.16:*:*:*:*:*:*:*
+Closed
+
+
+
+current cve:  CVE-2011-0726
+current cpe tuples num:  3352413
+vul_cpe_tuples num:  3352413
+vul_cwe_tuples num:  2734
+cpe_vendor_tuples num:  8953
+cpe_cpe_tuples num:  149
+cwe_cwe_tuples num:  51
