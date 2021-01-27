@@ -1,0 +1,29 @@
+0	Scope_Of_Influences	BasedOn
+1	Scope_Of_Influences	BasedOn_inv
+2	Scope_Of_Influences	Scope_Of_Influences_inv	Scope_Of_Influences
+3	Scope_Of_Influences	BasedOn	BasedOn
+4	Scope_Of_Influences	BasedOn	BasedOn_inv
+5	Scope_Of_Influences	BasedOn_inv	BasedOn
+6	Scope_Of_Influences	BasedOn_inv	BasedOn_inv
+7	Scope_Of_Influences	Develop_inv	Develop
+8	CausedBy	CausedBy_inv	Scope_Of_Influences
+9	Scope_Of_Influences	Scope_Of_Influences_inv	Scope_Of_Influences	BasedOn
+10	Scope_Of_Influences	Scope_Of_Influences_inv	Scope_Of_Influences	BasedOn_inv
+11	Scope_Of_Influences	BasedOn	Scope_Of_Influences_inv	Scope_Of_Influences
+12	Scope_Of_Influences	BasedOn_inv	Scope_Of_Influences_inv	Scope_Of_Influences
+13	Scope_Of_Influences	BasedOn	BasedOn	BasedOn
+14	Scope_Of_Influences	BasedOn	BasedOn	BasedOn_inv
+15	Scope_Of_Influences	BasedOn	BasedOn_inv	BasedOn
+16	Scope_Of_Influences	BasedOn	BasedOn_inv	BasedOn_inv
+17	Scope_Of_Influences	BasedOn_inv	BasedOn	BasedOn
+18	Scope_Of_Influences	BasedOn_inv	BasedOn	BasedOn_inv
+19	Scope_Of_Influences	BasedOn_inv	BasedOn_inv	BasedOn
+20	Scope_Of_Influences	BasedOn_inv	BasedOn_inv	BasedOn_inv
+21	Scope_Of_Influences	BasedOn	Develop_inv	Develop
+22	Scope_Of_Influences	BasedOn_inv	Develop_inv	Develop
+23	Scope_Of_Influences	Develop_inv	Develop	BasedOn
+24	Scope_Of_Influences	Develop_inv	Develop	BasedOn_inv
+25	CausedBy	CausedBy_inv	Scope_Of_Influences	BasedOn
+26	CausedBy	CausedBy_inv	Scope_Of_Influences	BasedOn_inv
+27	CausedBy	ChildOf	CausedBy_inv	Scope_Of_Influences
+28	CausedBy	ChildOf_inv	CausedBy_inv	Scope_Of_Influences

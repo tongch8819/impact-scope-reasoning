@@ -1,0 +1,81 @@
+/home/tongcheng/Softwares/anaconda3/envs/vulgraph/bin/python /home/tongcheng/ISCAS/vulgraph/DFS_small.py
+Scale: 26618
+
+0-th path: ['Scope_Of_Influences', 'BasedOn']
+-------------13%
+Match. Length of result: 1
+1-th path: ['Scope_Of_Influences', 'BasedOn_inv']
+--------------------------------------------------------56%
+Match. Length of result: 2
+2-th path: ['Scope_Of_Influences', 'Scope_Of_Influences_inv', 'Scope_Of_Influences']
+0%
+Match. Length of result: 3
+3-th path: ['Scope_Of_Influences', 'BasedOn', 'BasedOn']
+---------------------------------------------------------------------------------------------------99%
+4-th path: ['Scope_Of_Influences', 'BasedOn', 'BasedOn_inv']
+--------------------------------------------------------56%
+Match. Length of result: 4
+5-th path: ['Scope_Of_Influences', 'BasedOn_inv', 'BasedOn']
+-----5%
+Match. Length of result: 5
+6-th path: ['Scope_Of_Influences', 'BasedOn_inv', 'BasedOn_inv']
+---------------------------------------------------------------------------------------------------99%
+7-th path: ['Scope_Of_Influences', 'Develop_inv', 'Develop']
+0%
+Match. Length of result: 6
+8-th path: ['CausedBy', 'CausedBy_inv', 'Scope_Of_Influences']
+0%
+Match. Length of result: 7
+9-th path: ['Scope_Of_Influences', 'Scope_Of_Influences_inv', 'Scope_Of_Influences', 'BasedOn']
+-----5%
+Match. Length of result: 8
+10-th path: ['Scope_Of_Influences', 'Scope_Of_Influences_inv', 'Scope_Of_Influences', 'BasedOn_inv']
+--------------------------------------------------------56%
+Match. Length of result: 9
+11-th path: ['Scope_Of_Influences', 'BasedOn', 'Scope_Of_Influences_inv', 'Scope_Of_Influences']
+0%
+Match. Length of result: 10
+12-th path: ['Scope_Of_Influences', 'BasedOn_inv', 'Scope_Of_Influences_inv', 'Scope_Of_Influences']
+0%
+Match. Length of result: 11
+13-th path: ['Scope_Of_Influences', 'BasedOn', 'BasedOn', 'BasedOn']
+---------------------------------------------------------------------------------------------------99%
+14-th path: ['Scope_Of_Influences', 'BasedOn', 'BasedOn', 'BasedOn_inv']
+---------------------------------------------------------------------------------------------------99%
+15-th path: ['Scope_Of_Influences', 'BasedOn', 'BasedOn_inv', 'BasedOn']
+---------------------------------------------------------------------------------------------------99%
+16-th path: ['Scope_Of_Influences', 'BasedOn', 'BasedOn_inv', 'BasedOn_inv']
+---------------------------------------------------------------------------------------------------99%
+17-th path: ['Scope_Of_Influences', 'BasedOn_inv', 'BasedOn', 'BasedOn']
+---------------------------------------------------------------------------------------------------99%
+18-th path: ['Scope_Of_Influences', 'BasedOn_inv', 'BasedOn', 'BasedOn_inv']
+--------------------------------------------------------56%
+Match. Length of result: 12
+19-th path: ['Scope_Of_Influences', 'BasedOn_inv', 'BasedOn_inv', 'BasedOn']
+---------------------------------------------------------------------------------------------------99%
+20-th path: ['Scope_Of_Influences', 'BasedOn_inv', 'BasedOn_inv', 'BasedOn_inv']
+---------------------------------------------------------------------------------------------------99%
+21-th path: ['Scope_Of_Influences', 'BasedOn', 'Develop_inv', 'Develop']
+0%
+Match. Length of result: 13
+22-th path: ['Scope_Of_Influences', 'BasedOn_inv', 'Develop_inv', 'Develop']
+--------------------------------------------------------56%
+Match. Length of result: 14
+23-th path: ['Scope_Of_Influences', 'Develop_inv', 'Develop', 'BasedOn']
+---------------------------------------------------------------------------------------------------99%
+24-th path: ['Scope_Of_Influences', 'Develop_inv', 'Develop', 'BasedOn_inv']
+--------------------------------------------------------56%
+Match. Length of result: 15
+25-th path: ['CausedBy', 'CausedBy_inv', 'Scope_Of_Influences', 'BasedOn']
+---------------------------------------------------------------------------------------------------99%
+26-th path: ['CausedBy', 'CausedBy_inv', 'Scope_Of_Influences', 'BasedOn_inv']
+---------------------------------------------------------------------------------------------------99%
+27-th path: ['CausedBy', 'ChildOf', 'CausedBy_inv', 'Scope_Of_Influences']
+0%
+Match. Length of result: 16
+28-th path: ['CausedBy', 'ChildOf_inv', 'CausedBy_inv', 'Scope_Of_Influences']
+0%
+Match. Length of result: 17
+17
+
+Process finished with exit code 0
